@@ -6,9 +6,8 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending Washington Systems Center(WSC) Db2 for z/OS REST and Hybrid Cloud Virtual Wildfire Workshop.
 
-The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf){:target="_blank"} to view it locally.
   
 Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCONNEE%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the presentation.
 
@@ -16,9 +15,8 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for Remote Desktop access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/exercises){:target="_blank"} to view it locally.
+Lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/exercises){:target="_blank"} to view it locally.
 
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml){:target="_blank"} to view it locally.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
@@ -37,4 +35,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Eric Higgins](mailto: higgins@us.ibm.com) or [Chris Griego](mailto: cgriego@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Tadas Varaneckas](mailto: tadas.varan@us.ibm.com) and we will help you sort it out.
