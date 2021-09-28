@@ -9,13 +9,13 @@
 Thank you for attending the Washington Systems Center (WSC) Db2 for z/OS REST and Hybrid Cloud Virtual Wildfire Workshop.
 
 
-Click [here](https://ibm.box.com/s/diu2uqxl5xfrg0jcrr2b4wchc4o322wi){:target="_blank"} to download the presentation.
+Click [here](https://ibm.box.com/s/7ogrqxcbi4ly5aae1scaevsodv93z9us){:target="_blank"} to download the presentation.
 
 ## Accessing the hands-on lab
 
 Click [here](CMDB21 Virtual Access Guide.pdf){:target="_blank"} to read the instructions for how to access the Windows environment via a Remote Desktop application or a Web Browser.
 
-The lab instructions are available for download for your convenience [here](https://ibm.box.com/s/diu2uqxl5xfrg0jcrr2b4wchc4o322wi){:target="_blank"}.
+The lab instructions are available for download for your convenience [here](https://ibm.box.com/s/iakc3ecff4bph0nq4v35s639nkn2dhwo){:target="_blank"}.
 
 
 
